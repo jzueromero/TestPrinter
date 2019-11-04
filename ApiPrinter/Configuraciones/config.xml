@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <Impresor_cocina>Microsoft XPS Document Writer</Impresor_cocina>
+  <Impresor_bar>Microsoft Print to PDF</Impresor_bar>
+  <UsarMargenes>0</UsarMargenes>
+  <Margen_derecho>10</Margen_derecho>
+  <Margen_izquierdo>10</Margen_izquierdo>
+  <NombreFuente>Verdana</NombreFuente>
+  <NumeroFuente>8</NumeroFuente>
+</Config>
